@@ -1,6 +1,6 @@
 # Code 201 Reading notes.
 
-| Syntax      | Description |
+| Number    | Name of Read |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| 1      | Java       |
+| 2   | Html        |
