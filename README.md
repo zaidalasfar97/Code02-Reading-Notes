@@ -2,18 +2,18 @@
 
 | Reads   | Name of Read |
 | ----------- | ----------- |
-| Read 1  | Java       |
-| Read 2  | Html        |
-| Read 3  | Name of Read |
-| Read 4  | Java       |
-| Read 5  | Html        |
-| Read 6  | Name of Read |
-| Read 7  | Java       |
-| Read 8  | Html        |
-| Read 9  | Name of Read |
-| Read 10 | Java       |
-| Read 11 | Html        |
-| Reads 12| Name of Read |
-| Read 13 | Java       |
-| Read 14 | Html        |
-| Read 15 | Name of Read |
+| Read 1  |      |
+| Read 2  |         |
+| Read 3  |         |
+| Read 4  |        |
+| Read 5  |        |
+| Read 6  |       |
+| Read 7  |       |
+| Read 8  |        |
+| Read 9  |       |
+| Read 10 |     |
+| Read 11 |           |
+| Reads 12|          |
+| Read 13 |         |
+| Read 14 |         |
+| Read 15 |         |
