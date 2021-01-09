@@ -7,7 +7,7 @@
 | Read 3  | [Read3](https://zaidalasfar97.github.io/Code02-Reading-Notes/Read03)     |
 | Read 4  |  [Read4](https://zaidalasfar97.github.io/Code02-Reading-Notes/)      |
 | Read 5  |  [Read5](https://zaidalasfar97.github.io/Code02-Reading-Notes/Read05)     |
-| Read 6  |       |
+| Read 6  | [Read6](https://zaidalasfar97.github.io/Code02-Reading-Notes/Read06)      |
 | Read 7  |       |
 | Read 8  |        |
 | Read 9  |       |
